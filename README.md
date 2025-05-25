@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Abdelaziz
 
-**Backend .NET Developer**
+**Junior .NET Backend Developer**  
 
 ---
 
 ## 🚀 About Me
 
-I'm a Backend .NET Developer passionate about building high-quality, scalable applications using modern technologies. I have a solid foundation in C#, ASP.NET, and SQL, and I'm always eager to deepen my knowledge and expand my skill set.
+I'm a .NET Backend Developer passionate about building high-quality, scalable applications using modern technologies. I have a solid foundation in C#, ASP.NET, and SQL, and I'm always eager to deepen my knowledge and expand my skill set.
 
 I enjoy working in collaborative, team-oriented environments where I can contribute to solving real-world problems — whether it’s debugging tricky issues, enhancing performance, or developing new features. I take pride in writing clean, efficient, and maintainable code.
 
