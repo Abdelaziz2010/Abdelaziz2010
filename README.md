@@ -22,7 +22,7 @@ I'm focused on growing my expertise in .NET development and related technologies
 - **Azure Services:** Azure Ad B2C, Application Insights, Azure SQL Server, Azure Web App for Hosting, Azure Function App For Background Jobs, Azure DevOps For source code management, CI/CD pipelines, Azure Blob Storage For storing media files.
 - **Logging:** Serilog
 - **Mapping:** AutoMapper
-- **Dev Tools:** Git, Docker, Postman, Swagger, VS, VS Code
+- **Dev Tools:** Git, Docker, Postman, Swagger, VS, VS Code, Cursor
 - **ORM:** Entity Framework Core
 
 ---
