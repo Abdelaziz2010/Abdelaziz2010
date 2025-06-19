@@ -18,11 +18,12 @@ I'm focused on growing my expertise in .NET development and related technologies
 
 - **Languages & Frameworks:** C#, Linq, ASP.NET Core, ASP.NET Core WebAPI, ASP.NET Core MVC
 - **Databases:** SQL Server
-- **Caching:** Redis
+- **Caching:** Redis, In-Memory
 - **Azure Services:** Azure Ad B2C, Application Insights, Azure SQL Server, Azure Web App for Hosting, Azure Function App For Background Jobs, Azure DevOps For source code management, CI/CD pipelines, Azure Blob Storage For storing media files.
 - **Logging:** Serilog
+- **Monitoring:** Application Insights
 - **Mapping:** AutoMapper
-- **Dev Tools:** Git, Docker, Postman, Swagger, VS, VS Code, Cursor
+- **Dev Tools:** Git, Docker, Postman, Swagger, VS, VS Code, Cursor, Github Copilot
 - **ORM:** Entity Framework Core
 
 ---
