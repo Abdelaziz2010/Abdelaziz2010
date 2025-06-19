@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelaziz
 
-**Junior .NET Backend Developer**  
+**.NET Backend Developer**  
 
 ---
 
